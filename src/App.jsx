@@ -18,7 +18,7 @@ const App = () => {
                 <img src="/vite.svg" className="h-20" alt="Vite logo" />
               </a>
               <a href="https://react.dev" target="_blank" rel="noopener noreferrer">
-                <img src="/src/assets/react.svg" className="h-20" alt="React logo" />
+                <img src="/react.svg" className="h-20" alt="React logo" />
               </a>
               <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">
                 <img src="/shadcn-ui.svg" className="h-20" alt="Shadcn/ui logo" />
