@@ -45,7 +45,7 @@ const App = () => {
       </div>
       <footer className="w-full text-center py-4 mt-8">
         <p className="text-gray-600">
-          Made with ❤️ by <a href="https://mattpalmer.io" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Matt</a>
+          Made with ❤️ by <a href="https://x.com/mattppal" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Matt</a>
         </p>
       </footer>
     </div>
